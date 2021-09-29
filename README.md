@@ -8,6 +8,6 @@
     2) If the rolled number displays a 1 then your opponent gets the chance to roll the dice.
     3) The one who reaches the 100 points first will be  declared as a winner.
     
-    This link will redirect you to the web page:- (https://pig-game-retro.netlify.app/) 
+    This link will redirect you to the web page:- [This will redirect you to working app](https://pig-game-retro.netlify.app/) 
      
  -All the javascript logic was written by me.
